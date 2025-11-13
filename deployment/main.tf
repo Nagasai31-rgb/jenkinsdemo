@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "eu-north-1"
+  region = "us-east-1"
 }
 
 # Fetching the VPC named Application-Vpc
